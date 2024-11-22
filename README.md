@@ -2,16 +2,16 @@
 
 ### Screenshots of the Project:
 1- The first look
-![image](https://github.com/user-attachments/assets/c4dcd6ef-cec2-49a8-965c-187f6f0800ff)
+![image](https://github.com/user-attachments/assets/5aded04b-c41d-41f9-b619-a038e0007124)
 
 2- It is fully responsive
-![image](https://github.com/user-attachments/assets/c4df2918-efea-4c76-9e0b-bd8be54d4223)
+![image](https://github.com/user-attachments/assets/694c1309-e1c3-4df4-a3ea-91a457477240)
 
 3- There are pre-listed relative questions for customers to ask from
-![image](https://github.com/user-attachments/assets/4258ea7d-345b-4c83-b234-31444e6535ea)
+![image](https://github.com/user-attachments/assets/3f0e69a2-58dc-4ac9-8f6f-4d299c97c8e6)
 
 4- It also has some default messages set, to send when the message sent by customer is not in our database.
-![image](https://github.com/user-attachments/assets/ad050d40-19c0-43e5-a29f-2a7af927034c)
+![image](https://github.com/user-attachments/assets/89ffd5f6-af88-4a41-bbb8-65bdeaea49e4)
 
 
 ## Project Overview
